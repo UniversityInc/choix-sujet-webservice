@@ -1,0 +1,6 @@
+com\webservices\Sujet.class
+com\webservice\choixsujetws\JAXRSConfiguration.class
+com\webservices\Etudiant.class
+com\webservices\Enseignant.class
+com\webservices\Utilisateur.class
+com\webservice\choixsujetws\resources\JavaEE8Resource.class
